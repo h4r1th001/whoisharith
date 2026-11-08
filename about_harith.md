@@ -1,4 +1,3 @@
-# whoisharith
 # Hey, I'm Harith! 👋
 
 ⚡ Electrical Engineering Student | Electronics Enthusiast | Aspiring EV Engineer
